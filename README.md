@@ -1,5 +1,9 @@
 # Firemonkey Style Browser
 
+[![RAD Studio](https://img.shields.io/badge/RAD%20Studio-Delphi-red.svg)](https://www.embarcadero.com/products/rad-studio)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 I used to have a tool to view different Firemonkey styles but I couldn't find it anywhere, so wrote my own. This one is written in Delphi 13 Florence but could probably be back-ported without too much difficulty. It allows configuration and saving of three different folders and then fills a listbox with `.style` files found for the selected folder; double+click on the style name to assign that style to the application immediately. The form has several different controls so you can see how they look and operate for that style.
 
 Feel free to modify this project for whatever you need, third-party components, larger form, tabs, etc. If you're using standard components and have an idea for expanded use of this tool, feel free to suggest it or fork and make a pull-request.
