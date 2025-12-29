@@ -7,3 +7,9 @@ Feel free to modify this project for whatever you need, third-party components, 
 ## Add to Tools
 
 I found it useful to add this to the Delphi IDE `Tools` menu so when I'm working on a Firemonkey project and get to the point where I need to assign a style, I can use this to help me quickly choose one.
+
+## Screenshot
+
+Here's what it looks like with a style selected:
+
+![Screenshot of app running on Windows](https://github.com/corneliusdavid/FiremonkeyStyleBrowser/blob/main/StyleBrowserScrenshot.png)
